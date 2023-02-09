@@ -16,5 +16,5 @@ def check_brackets(sequence):
     return not stack
 
 
-print(check_brackets("[({()})]"))  # True
-print(check_brackets("[({)}]"))  # False
+print(check_brackets('[({()})]'))  # True
+print(check_brackets('[({)}]'))  # False
