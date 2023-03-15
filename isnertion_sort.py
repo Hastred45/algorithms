@@ -9,4 +9,4 @@ def insert_it(array):
         print(f"step {i}, sorted {i+1} elements: {array}")
 
 
-insert_it([11, 101, 2, 9, 7, 1, 88])
+insert_it([11, 10, 2, 9, 7, 1, 88])
